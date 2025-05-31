@@ -143,7 +143,7 @@ const produtos = [
         preco: 899.99,
         marca: "Wilson",
         categoria: "tenis",
-        imagem: "images/produtos/tenis/raquete-wilson.jpg"
+        imagem: "images/produtos/tenis/raquete.webp"
     },
     {
         id: 18,
@@ -151,7 +151,7 @@ const produtos = [
         preco: 649.99,
         marca: "Asics",
         categoria: "tenis",
-        imagem: "images/produtos/tenis/tenis-asics.jpg"
+        imagem: "images/produtos/tenis/tenistenis.jpg"
     },
     {
         id: 19,
@@ -159,7 +159,7 @@ const produtos = [
         preco: 49.99,
         marca: "Wilson",
         categoria: "tenis",
-        imagem: "images/produtos/tenis/bola-wilson.jpg"
+        imagem: "images/produtos/tenis/boladetenis.jpg"
     },
     {
         id: 20,
@@ -167,7 +167,7 @@ const produtos = [
         preco: 149.99,
         marca: "Nike",
         categoria: "tenis",
-        imagem: "images/produtos/tenis/camiseta-nike.jpg"
+        imagem: "images/produtos/tenis/camisanike.jpg"
     }
 ];
 
